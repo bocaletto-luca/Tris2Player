@@ -23,7 +23,6 @@ This is a two-player Tic-Tac-Toe game implemented in Python using the Tkinter li
 
 Make sure you have Python 3 installed on your computer. You can run the game by executing the `Tris2Player_English.py` file.
 
-```bash
 python Tris2Player_English.py
 
 # Tris 2 Player
