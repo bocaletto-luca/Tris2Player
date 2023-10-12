@@ -1,5 +1,7 @@
 # Tris 2 Player
 
+*Author* Bocaletto Luca
+
 This is a two-player Tic-Tac-Toe game implemented in Python using the Tkinter library for the graphical user interface.
 
 ![Screenshot 2023-10-12 203115](https://github.com/elektronoide/Tris2Player/assets/134635227/d7b624da-efc0-469b-b52f-4bb84fea6a40)
