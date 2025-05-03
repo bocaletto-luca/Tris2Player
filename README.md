@@ -5,7 +5,7 @@
 **Language:** Python
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
-![License](https://img.shields.io/badge/
+![License](https://img.shields.io/badge/License-GPLv3-green)
 
 This is a two-player Tic-Tac-Toe game implemented in Python using the Tkinter library for the graphical user interface.
 
