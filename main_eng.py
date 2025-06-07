@@ -1,5 +1,6 @@
 # Software Name: Tris 2 Player
 # Author: Luca Bocaletto
+# Language: English
 
 # Import the Tkinter library for GUI and messagebox for message pop-ups.
 import tkinter as tk
